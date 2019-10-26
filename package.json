@@ -1,7 +1,7 @@
 {
   "name": "liqd-jwt",
   "description": "JSON Web Token",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "radixxko",
   "license": "MIT",
   "main": "lib/jwt.js",
@@ -26,8 +26,8 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "coveralls": "^3.0.2",
+    "coveralls": "^3.0.7",
     "mocha": "^5.0.4",
-    "nyc": "^11.6.0"
+    "nyc": "^14.1.1"
   }
 }
